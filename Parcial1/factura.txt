@@ -1,0 +1,57 @@
+*************************
+Nombre: Willy
+Numero de placa: p001cba
+Tipo de combustible: Disel
+Cantidad de galones: 2.00
+Precio por galon: 28.78
+Total a pagar: 57.56
+**Gracias por su Compra**
+*************************
+Nombre: sic
+Numero de placa: m000tsx
+Tipo de combustible: Super
+Cantidad de galones: 5.00
+Precio por galon: 31.85
+Total a pagar: 159.25
+**Gracias por su Compra**
+*************************
+Nombre: 33
+Numero de placa: p234cvg
+Tipo de combustible: Regular
+Cantidad de galones: 0.50
+Precio por galon: 30.36
+Total a pagar: 15.18
+**Gracias por su Compra**
+*************************
+Nombre: hernandez
+Numero de placa: p983mcd
+Tipo de combustible: Super
+Cantidad de galones: 3.00
+Precio por galon: 31.85
+Total a pagar: 95.55
+**Gracias por su Compra**
+*************************
+Nombre: sic2
+Numero de placa: m543kld
+Tipo de combustible: Regular
+Cantidad de galones: 2.00
+Precio por galon: 30.36
+Total a pagar: 60.72
+**Gracias por su Compra**
+*************************
+Nombre: willsic
+Número de placa: p000ftg
+Tipo de combustible: Súper
+Cantidad de galones: 2.50
+Precio por galón: Q31.85
+Total a pagar: Q79.62
+** Gracias por su Compra **
+
+*************************
+Nombre: sicwill
+Numero de placa: m898kld
+Tipo de combustible: Regular
+Cantidad de galones: 5.00
+Precio por galon: 30.36
+Total a pagar: 151.80
+**Gracias por su Compra**
